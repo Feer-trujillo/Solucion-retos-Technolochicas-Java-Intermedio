@@ -65,7 +65,7 @@ public class Main{
                         contadorRojos[0]++;
                         if (contadorRojos[0] >= 3) {
                             contadorRojos[0] = 0;
-                            return true; 
+                            return true;
                         }
                     } else {
                         contadorRojos[0] = 0; /
